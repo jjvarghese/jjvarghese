@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Josh, a native iOS developer.
-- 👀 I’m interested in programming interesting and fun applications.
-- 🌱 I’m currently learning SwiftUI and React Native.
+Showcase, ideas, hobby projects, and challenges for mobile application development in both native iOS and React Native.
 
 <!---
 jjvarghese/jjvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
