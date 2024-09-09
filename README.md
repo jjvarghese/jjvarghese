@@ -1,4 +1,5 @@
-Showcase, ideas, hobby projects, and challenges for mobile application development in both native iOS and React Native.
+Hi, I'm Josh, a mobile app developer. This portfolio showcases my personal projects, ranging from hobby apps to experiments with different technologies and design patterns. You'll find examples in _Native iOS_ (Objective-C, Swift, SwiftUI), _React Native_, and _.NET MAUI_.
+
 
 <!---
 jjvarghese/jjvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
