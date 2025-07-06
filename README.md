@@ -1,4 +1,4 @@
-Hi, I'm Josh, a mobile app developer. This portfolio showcases my personal projects, ranging from hobby apps to experiments with different technologies and design patterns. You'll find examples in _Native iOS_ (Objective-C, Swift, SwiftUI), _React Native_, and _.NET MAUI_.
+This portfolio showcases my personal projects, ranging from hobby apps to experiments with different technologies and design patterns. You'll find examples in _Native iOS_ (Objective-C, Swift, SwiftUI), _React Native_, and _.NET MAUI_.
 
 
 <!---
